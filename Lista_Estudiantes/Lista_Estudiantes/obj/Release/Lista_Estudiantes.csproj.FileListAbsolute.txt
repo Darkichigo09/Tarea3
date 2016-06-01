@@ -1,0 +1,5 @@
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Lista_Estudiantes\Lista_Estudiantes\bin\Release\Lista_Estudiantes.exe.config
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Lista_Estudiantes\Lista_Estudiantes\bin\Release\Lista_Estudiantes.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Lista_Estudiantes\Lista_Estudiantes\bin\Release\Lista_Estudiantes.pdb
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Lista_Estudiantes\Lista_Estudiantes\obj\Release\Lista_Estudiantes.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Lista_Estudiantes\Lista_Estudiantes\obj\Release\Lista_Estudiantes.pdb
